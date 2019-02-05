@@ -10,13 +10,13 @@ Are you sure you want to spent?(yes or no)
 If yes,You have $990.01 remaining
 Enter the cost of the item. Enter 543.23
 Are you sure you want to spent?(yes or no)
-If no, You have $990.01 remaining
+If yes, You have $456.77 remaining
 Enter the cost of the item. Enter 232.65
 Are you sure you want to spent?(yes or no)
-if yes, You have $757.36 remaining
+if yes, You have $767.36 remaining
 Enter the cost of the item. Enter 700
 Are you sure you want to spent?(yes or no)
-if yes,You have $57.36 remaining
+if yes,You have $300.36 remaining
 Enter the cost of the item. Enter 789.23
 Are you sure you want to spent?(yes or no)
-If yes,You dont have enough money to purchase and now owe :$731.87
+If yes,You dont have enough money to purchase and now owe :$210.77
